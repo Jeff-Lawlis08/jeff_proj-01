@@ -230,6 +230,9 @@ aside {
   font-family: "Open Sans";
   font-size: 11px;
 }
+.adPic span:hover {
+  color: #0D6BB1;
+}
 footer {
   width: 100%;
 }
@@ -264,6 +267,7 @@ footer h1 {
   font-size: 25px;
   color: #083452;
   padding-top: 12.5rem;
+  padding-left: 1rem;
 }
 .cage:hover {
   background-color: transparent;
